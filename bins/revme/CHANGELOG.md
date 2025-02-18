@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0-alpha.2](https://github.com/satyasai69/revm/compare/revme-v3.0.0-alpha.1...revme-v3.0.0-alpha.2) - 2025-02-18
+
+### Other
+
+- updated the following local packages: revm-database, revm-inspector, revm
+
 ## [3.0.0-alpha.1](https://github.com/bluealloy/revm/compare/revme-v2.5.0...revme-v3.0.0-alpha.1) - 2025-02-16
 
 ### Added
